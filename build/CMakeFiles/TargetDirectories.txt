@@ -1,0 +1,3 @@
+/Users/guangmingzeng/Documents/Code/8610/testC/build/CMakeFiles/TestCC.dir
+/Users/guangmingzeng/Documents/Code/8610/testC/build/CMakeFiles/edit_cache.dir
+/Users/guangmingzeng/Documents/Code/8610/testC/build/CMakeFiles/rebuild_cache.dir

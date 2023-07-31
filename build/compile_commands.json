@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/guangmingzeng/Documents/Code/8610/testC/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.8.0_1/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/TestCC.dir/main.cpp.o -c /Users/guangmingzeng/Documents/Code/8610/testC/main.cpp",
+  "file": "/Users/guangmingzeng/Documents/Code/8610/testC/main.cpp",
+  "output": "CMakeFiles/TestCC.dir/main.cpp.o"
+}
+]
